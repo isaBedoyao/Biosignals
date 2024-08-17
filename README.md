@@ -1,6 +1,8 @@
 # Biosignals
 Proyectos realizados en el curso de Bioseñales y Sistemas
 
-Estudiantes
+### Estudiantes
+
 *Isabela Bedoya*
+
 *Antonia Yepes*
