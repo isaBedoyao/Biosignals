@@ -3,6 +3,6 @@ Proyectos realizados en el curso de Bioseñales y Sistemas
 
 ### Estudiantes
 
-*Isabela Bedoya*
+*Isabella Bedoya Orozco - 1001013873*
 
-*Antonia Yepes*
+*Antonia Yepes Quintero - 1036960061*
